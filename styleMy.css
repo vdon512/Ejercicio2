@@ -1,0 +1,67 @@
+h1 {
+    font-family: Tahoma, Verdana, Segoe, sans-serif;
+    color: #fff;
+    background-color: #aaf1aa ;
+    text-align: center;
+   }
+#dos{
+    background-color: #f7ff00;
+     }
+ p.parrafo1, p.parrafo2,p.parrafo3{
+                color:red;
+                font-family: Arial, Helvetica, Sans-serif;
+                font-size: 20px; 
+               }
+               ul li{
+                text-align: center;
+                list-style:none;
+                font-size: 25px;
+               }
+               li.impar{
+                background-color: red;
+               }
+               li.par{
+                background-color: yellow;
+               }
+               .parte1{
+                font-style: normal;
+            }
+            .parte2{
+                font-size: 1.5em;
+            }
+            .parte3{
+                color: red;
+            }
+            .parte4{
+                color: blue;
+                font-size: 2em;
+               }
+               .p1{
+                font-weight: bold;
+               }
+               .p2{
+                font-style: oblique;
+               }
+               .p3{
+                text-decoration: underline;
+               }
+               #id1{
+                font-weight: bold;
+                font-style: oblique;
+              }
+              #id2{
+                font-weight: bold;
+                text-decoration: underline;
+              }
+              #id3{
+                font-style: oblique;
+                text-decoration: underline;
+              }
+              #id4{
+                font-weight: bold;
+                font-style: oblique;
+                text-decoration: underline;
+              }
+              .a1{
+                text-decoration:none;
+            }
